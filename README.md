@@ -4,16 +4,17 @@
 
 Music bot for Discord built with Python using **discord.py** and **yt-dlp**
 
-## Important notes
+### Important notes
 - **FFmpeg is not included** in this repository
 - The bot token **must be stored** in a `.env` file
 - It is recommended to use a **virtual environment(venv)**
 
-## Requirements
+### Requirements
 - Python 3.11+
 - FFmpeg installed and available in your **PATH**
+- Installed external libs
 
-## Installation
+### Installation
 
 ```bash
 pip install -r requirements.txt
@@ -25,17 +26,17 @@ pip install -r requirements.txt
 
 Bot de música para Discord feito em Python usando **discord.py** e **yt-dlp**
 
-## Avisos importantes
+### Avisos importantes
 - O FFmpeg **não está incluído** no repositório
 - O token do bot **deve ser colocado** em um arquivo `.env`
 - É recomendado o uso de uma **virtual environment(venv)**
 
-## Requisitos
+### Requisitos
 - Python 3.11+
 - FFmpeg instalado e disponível no seu **PATH**
 - Bibliotecas externas instaladas
 
-## Instalação
+### Instalação
 ```bash
 pip install -r requirements.txt
 ```
